@@ -1,5 +1,4 @@
 # UnitTest-With-TDD
-Exercícios do curso "python-3-do-zero-ao-avancado" do Luiz Otávio na plataforma Udemy.
 
 # Seção de Testes (Curso de Python)
 
